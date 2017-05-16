@@ -1,4 +1,5 @@
 # MMDVM MENU Program
+# menu Ver 7.1 
 
 $mkdir /home/pi/bin
 
