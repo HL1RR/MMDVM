@@ -13,8 +13,8 @@ $tar xvf menu.tar
 
 $mv menu ../
 
-$rm -r -f MMDVM
-
 $cd ..
+
+$rm -r -f MMDVM
 
 $menu   or ./menu
